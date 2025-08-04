@@ -16,7 +16,7 @@ import java.util.List;
  * 一个命令中含有要协作的目标，目标属性，和属性值
  * 命令抽象为id和简单object value表示，以适配不同的协作要求
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public interface Command<T extends Topic, S extends Session, B extends Broadcaster> {

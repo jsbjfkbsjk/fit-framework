@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * 需要协同的对象表达
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-24
  */
 public interface CommandTarget {

@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * command 制造工厂
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-27
  */
 public interface CommandFactory {

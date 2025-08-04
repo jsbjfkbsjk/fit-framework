@@ -19,7 +19,7 @@ import java.util.Optional;
 /**
  * elsa的整个图的快照
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-24
  */
 public class Graph implements Snapshot<ShapeIdentity, Shape> {

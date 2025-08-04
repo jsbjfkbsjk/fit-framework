@@ -19,7 +19,7 @@ import java.util.function.Function;
  * 一次协作session
  * 如果操作注册到一个同一个session，这个session所有的变动都会广播到注册端
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public interface Session<I, T extends CommandTarget, S extends Snapshot<I, T>, C extends Command, U extends LoginSession> {

@@ -17,7 +17,7 @@ import java.util.ArrayList;
  * 指令型command
  * 该command的重点是action，elsa graph接收到command，根据action做不同的操作,比如翻页
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-26
  */
 public abstract class ActionCommand<T> extends AbstractCommand<ElsaTopic<T>, ElsaSession, ElsaBroadcaster> {

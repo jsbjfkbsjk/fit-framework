@@ -12,7 +12,7 @@ import modelengine.elsa.collaboration.entities.elsa.ElsaTopic;
 /**
  * elsa与collaboration交互通用参数
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class Args<T> {

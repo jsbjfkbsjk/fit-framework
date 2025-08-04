@@ -25,7 +25,7 @@ import java.util.Optional;
 /**
  * 接口限流注解实现，基于请求数/每秒控制并发。
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-28
  */
 @Slf4j

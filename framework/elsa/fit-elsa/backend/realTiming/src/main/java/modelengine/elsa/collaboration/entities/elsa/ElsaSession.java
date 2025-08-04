@@ -28,7 +28,7 @@ import java.util.Map;
  * elsa session中只对shape类型进行同步
  * elsa session中只对shape identity的command做管理
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-27
  */
 public class ElsaSession extends AbstractSession<ShapeIdentity, Shape, Graph, Command, User> {

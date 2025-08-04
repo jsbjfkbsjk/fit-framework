@@ -16,7 +16,7 @@ import java.util.ArrayList;
 /**
  * 发布评论的命令
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-27
  */
 public class PublishCommentCommand extends AbstractCommand<ElsaTopic<String>, ElsaSession, ElsaBroadcaster> {

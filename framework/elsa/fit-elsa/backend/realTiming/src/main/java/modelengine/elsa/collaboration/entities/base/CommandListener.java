@@ -9,7 +9,7 @@ package modelengine.elsa.collaboration.entities.base;
 /**
  * 侦听客户端的指令
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public interface CommandListener {

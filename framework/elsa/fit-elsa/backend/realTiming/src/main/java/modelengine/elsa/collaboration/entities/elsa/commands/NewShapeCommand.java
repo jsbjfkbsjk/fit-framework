@@ -20,7 +20,7 @@ import java.util.Map;
 /**
  * 新增一个图形的命令
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-27
  */
 public class NewShapeCommand extends AbstractCommand<ElsaTopic<Map<String, Object>>, ElsaSession, ElsaBroadcaster> {

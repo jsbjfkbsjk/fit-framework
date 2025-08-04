@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
  * 广播用户动作
  *
  * @param <T> 消息体值类型
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-28
  */
 @Component

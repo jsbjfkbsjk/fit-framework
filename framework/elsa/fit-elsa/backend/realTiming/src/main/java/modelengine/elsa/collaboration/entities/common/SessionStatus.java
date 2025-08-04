@@ -9,7 +9,7 @@ package modelengine.elsa.collaboration.entities.common;
 /**
  * session状态 新建时为idle 当snapshot初始化后变为run sessions.stop将session状态变为stop
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public enum SessionStatus {

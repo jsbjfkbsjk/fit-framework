@@ -11,7 +11,7 @@ import lombok.Getter;
 /**
  * 租户信息 协同是基于租户隔离
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class Tenant implements Identity {

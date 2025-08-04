@@ -12,7 +12,7 @@ package modelengine.elsa.collaboration.entities.base;
  *
  * @param <T> 消息体值类型
  * @param <U> 消息体类型
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public interface Broadcaster<T, U extends Topic<T>> {

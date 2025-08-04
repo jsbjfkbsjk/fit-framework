@@ -44,7 +44,7 @@ import java.util.stream.Collectors;
 /**
  * 协作的内部处理类
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 @Component

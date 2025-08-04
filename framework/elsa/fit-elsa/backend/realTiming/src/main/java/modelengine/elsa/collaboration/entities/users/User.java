@@ -20,7 +20,7 @@ import javax.security.auth.login.FailedLoginException;
 /**
  * 协作登录用户管理
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class User implements Identity, LoginSession {

@@ -19,7 +19,7 @@ import java.util.ArrayList;
 /**
  * 属性command，该command为是shape的某属性赋值
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-27
  */
 public class PropertyCommand extends AbstractCommand<ElsaTopic<ShapeProperties[]>, ElsaSession, ElsaBroadcaster> {

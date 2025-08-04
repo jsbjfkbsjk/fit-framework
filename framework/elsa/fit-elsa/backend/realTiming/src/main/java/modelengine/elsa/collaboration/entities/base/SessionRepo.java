@@ -10,7 +10,7 @@ package modelengine.elsa.collaboration.entities.base;
  * 协同信息持久化接口
  * 持久化session里所有信息，供回放和重现过程数据
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public interface SessionRepo {

@@ -15,7 +15,7 @@ import java.io.Serializable;
  *
  * @param <K> 键类型
  * @param <V> 值类型
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class Pair<K, V> implements Serializable {

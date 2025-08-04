@@ -9,7 +9,7 @@ package modelengine.elsa.collaboration.exceptions;
 /**
  * 拉取协同时序异常。
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class SequenceInvalidException extends RuntimeException {}

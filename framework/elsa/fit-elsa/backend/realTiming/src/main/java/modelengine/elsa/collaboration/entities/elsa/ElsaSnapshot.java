@@ -19,7 +19,7 @@ import java.rmi.NoSuchObjectException;
 /**
  * elsa的快照
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class ElsaSnapshot implements Snapshot<ShapeIdentity, Shape> {

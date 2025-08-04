@@ -18,7 +18,7 @@ import java.util.Map;
 /**
  * 手写完成命令
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-26
  */
 public class FreeLineDoneCommand extends AbstractCommand<ElsaTopic<Object>, ElsaSession, ElsaBroadcaster> {

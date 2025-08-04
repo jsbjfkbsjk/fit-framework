@@ -17,7 +17,7 @@ import java.util.UUID;
  * Command的基本实现，该类不会实例化，为过渡类型
  * 该类不应该成为变量类型，任何对该类型的引用都应该转变为对Command的引用
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public abstract class AbstractCommand<T extends Topic, S extends Session, B extends Broadcaster>

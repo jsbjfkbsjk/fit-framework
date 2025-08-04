@@ -22,7 +22,7 @@ import java.util.concurrent.ScheduledFuture;
 /**
  * websocket的分发任务，一个job对象负责一个接入方的分发。
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 @Slf4j

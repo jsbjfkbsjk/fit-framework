@@ -11,7 +11,7 @@ import lombok.Getter;
 /**
  * elsa中协同对象的id表达 elsa中shape的id表达为graph+page+shape
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class ShapeIdentity {

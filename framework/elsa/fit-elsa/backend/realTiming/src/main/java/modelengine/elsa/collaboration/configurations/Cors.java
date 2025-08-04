@@ -26,7 +26,7 @@ import java.util.Objects;
 /**
  * 跨域支持。
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-26
  */
 @Configuration

@@ -21,7 +21,7 @@ import java.util.stream.Stream;
 /**
  * 协同编辑session管理器，该协同为“编辑”模式
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-26
  */
 @Component

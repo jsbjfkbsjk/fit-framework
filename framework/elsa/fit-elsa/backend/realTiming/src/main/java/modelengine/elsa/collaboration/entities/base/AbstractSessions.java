@@ -19,7 +19,7 @@ import java.util.stream.Stream;
  * sessions基本实现，不应作为变量类型，变量类型应该是具体实现类或者Sessions<I,T,C>
  * 实际创建session放到具体实现类里
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public abstract class AbstractSessions<S extends Session> implements Sessions<S> {

@@ -10,7 +10,7 @@ package modelengine.elsa.collaboration.entities.base;
  * 属性转换器
  * propertyCommand中传递的value需要不同的转换器转换value
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public interface CommandValueParser {

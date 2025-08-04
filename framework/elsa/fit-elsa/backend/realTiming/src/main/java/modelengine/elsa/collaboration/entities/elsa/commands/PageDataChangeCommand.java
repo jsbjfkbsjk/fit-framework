@@ -22,7 +22,7 @@ import java.util.Map;
 /**
  * 修改页面数据的命令
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-27
  */
 public class PageDataChangeCommand extends AbstractCommand<ElsaTopic<ShapeProperties[]>, ElsaSession, ElsaBroadcaster> {

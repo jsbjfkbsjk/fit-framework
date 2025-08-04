@@ -20,7 +20,7 @@ import java.util.function.BiConsumer;
 /**
  * 本地配置更新器。
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 @Component

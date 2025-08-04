@@ -14,7 +14,7 @@ import java.util.Map;
 /**
  * Elsa中的基本单位Shape是elsa体系中协同的基本对象 该对象的id为ShapeIdentity
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-24
  */
 public class Shape implements CommandTarget{

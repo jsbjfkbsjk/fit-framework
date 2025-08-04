@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 点赞的命令
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-26
  */
 public class AppreciateCommand extends AbstractCommand<ElsaTopic<Map<String,Object>>, ElsaSession, ElsaBroadcaster> {

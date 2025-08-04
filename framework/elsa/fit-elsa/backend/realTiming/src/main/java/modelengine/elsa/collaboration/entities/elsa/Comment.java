@@ -14,7 +14,7 @@ import java.util.Date;
 /**
  * 评论实体类。
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class Comment {

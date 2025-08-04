@@ -15,7 +15,7 @@ import modelengine.elsa.collaboration.entities.base.Topic;
  *
  * @param <T> 消息体值类型
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class ElsaTopic<T> implements Topic<T> {

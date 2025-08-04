@@ -14,7 +14,7 @@ import java.util.Map;
 /**
  * 手写点的命令
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-26
  */
 public class AddFreeLinePointCommand extends ActionCommand<List<Map<String, Integer>>> {

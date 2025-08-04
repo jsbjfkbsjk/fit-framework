@@ -9,7 +9,7 @@ package modelengine.elsa.entities;
 /**
  * 快照。
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-24
  */
 public interface Snapshot<I, T> {

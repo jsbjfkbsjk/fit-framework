@@ -11,7 +11,7 @@ import lombok.Getter;
 /**
  * session模式 分两种： 协作编辑，没有主次，所有人可以同等编辑 演示：有主次，播放人控制，所有人只能得到播放结果
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public enum SessionMode {

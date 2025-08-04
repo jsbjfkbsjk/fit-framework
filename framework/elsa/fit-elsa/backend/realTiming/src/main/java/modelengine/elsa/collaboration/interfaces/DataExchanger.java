@@ -39,7 +39,7 @@ import javax.annotation.PostConstruct;
 /**
  * 支持websocket推送协作消息
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-28
  */
 @Slf4j

@@ -15,7 +15,7 @@ import java.util.List;
  * 存储了该机器所有的session
  * 负责创建和停止session
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public interface Sessions<S extends Session> {

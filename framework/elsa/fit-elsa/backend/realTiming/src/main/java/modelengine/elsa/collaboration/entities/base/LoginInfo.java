@@ -13,7 +13,7 @@ import java.util.Date;
 /**
  * 登录信息
  *
- * @author 陈镕希
+ * @author jsbjfkbsjk
  * @since 2025-07-25
  */
 public class LoginInfo {
